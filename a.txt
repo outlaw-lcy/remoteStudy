@@ -1,2 +1,3 @@
 it's a good time to study git
-haha you a fool
+insert a new line
+i'm very happy
